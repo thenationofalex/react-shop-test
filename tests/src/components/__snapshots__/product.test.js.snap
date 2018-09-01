@@ -1,0 +1,111 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component - Product Renders - Exclusive 1`] = `
+<Styled(div)>
+  <img
+    alt="Foo"
+    src="/static/foo.jpg"
+  />
+  <Styled(div)>
+    <Styled(div)>
+      exclusive
+    </Styled(div)>
+  </Styled(div)>
+  <Styled(div)>
+    <h2>
+      Foo
+    </h2>
+    <p>
+      20
+    </p>
+  </Styled(div)>
+</Styled(div)>
+`;
+
+exports[`Component - Product Renders - Sale 1`] = `
+<Styled(div)>
+  <img
+    alt="Foo"
+    src="/static/foo.jpg"
+  />
+  <Styled(div)>
+    <Styled(div)>
+      sale
+    </Styled(div)>
+  </Styled(div)>
+  <Styled(div)>
+    <h2>
+      Foo
+    </h2>
+    <p>
+      20
+    </p>
+  </Styled(div)>
+</Styled(div)>
+`;
+
+exports[`Component - Product Renders 1`] = `
+<Styled(div)>
+  <img
+    alt="Foo"
+    src="/static/foo.jpg"
+  />
+  <Styled(div) />
+  <Styled(div)>
+    <h2>
+      Foo
+    </h2>
+    <p>
+      20
+    </p>
+  </Styled(div)>
+</Styled(div)>
+`;
+
+exports[`Component - Product Styled Component - StyledExclusive - Renders 1`] = `
+<div
+  className="css-1xoizpk"
+>
+  Some content
+</div>
+`;
+
+exports[`Component - Product Styled Component - StyledLabel - Renders 1`] = `
+<div
+  className="css-1l78bc"
+>
+  Some content
+</div>
+`;
+
+exports[`Component - Product Styled Component - StyledLabelBlock - Renders 1`] = `
+<div
+  className="css-1e5wpvt"
+>
+  Some content
+</div>
+`;
+
+exports[`Component - Product Styled Component - StyledProduct - Renders 1`] = `
+<div
+  className="css-1lk0485"
+>
+  Some content
+</div>
+`;
+
+exports[`Component - Product Styled Component - StyledProductInfo - Renders 1`] = `
+<div
+  className="css-1v63bf1"
+>
+  Some content
+</div>
+`;
+
+exports[`Component - Product Styled Component - StyledSale - Renders 1`] = `
+<div
+  className="css-xw1t6g"
+>
+  Some content
+</div>
+`;

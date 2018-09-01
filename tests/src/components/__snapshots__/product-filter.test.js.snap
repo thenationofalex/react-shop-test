@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component - Product filter Renders 1`] = `
+<Fragment>
+  <Styled(select)
+    id="size"
+    onChange={[Function]}
+  >
+    <option
+      value="reset"
+    >
+      Filter by size
+    </option>
+    <option
+      key="XS"
+      value="XS"
+    >
+      XS
+    </option>
+    <option
+      key="S"
+      value="S"
+    >
+      S
+    </option>
+    <option
+      key="L"
+      value="L"
+    >
+      L
+    </option>
+    <option
+      key="XL"
+      value="XL"
+    >
+      XL
+    </option>
+  </Styled(select)>
+</Fragment>
+`;
+
+exports[`Component - Product filter Styled Component - StyledSelect - Renders 1`] = `
+<select
+  className="css-1gf4wyf"
+/>
+`;

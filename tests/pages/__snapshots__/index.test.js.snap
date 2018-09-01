@@ -1,0 +1,113 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Product Page Renders 1`] = `
+<Fragment>
+  <ProductPage
+    products={
+      Array [
+        Object {
+          "index": 0,
+          "isExclusive": false,
+          "isSale": true,
+          "price": "$18.88",
+          "productImage": "product-1.jpg",
+          "productName": "Striped shirt",
+          "size": Array [
+            "XS",
+            "S",
+            "L",
+            "XL",
+          ],
+        },
+        Object {
+          "index": 1,
+          "isExclusive": false,
+          "isSale": false,
+          "price": "$25.44",
+          "productImage": "product-2.jpg",
+          "productName": "Denim shirt",
+          "size": Array [
+            "XS",
+            "S",
+          ],
+        },
+        Object {
+          "index": 2,
+          "isExclusive": true,
+          "isSale": false,
+          "price": "$12.93",
+          "productImage": "product-3.jpg",
+          "productName": "Plain cotton t-shirt",
+          "size": Array [
+            "S",
+            "M",
+          ],
+        },
+        Object {
+          "index": 3,
+          "isExclusive": false,
+          "isSale": false,
+          "price": "$26.32",
+          "productImage": "product-4.jpg",
+          "productName": "Plain 3/4 sleeve cotton t-shirt",
+          "size": Array [
+            "XL",
+          ],
+        },
+        Object {
+          "index": 4,
+          "isExclusive": false,
+          "isSale": false,
+          "price": "$12.16",
+          "productImage": "product-5.jpg",
+          "productName": "White dress shirt",
+          "size": Array [
+            "M",
+            "L",
+          ],
+        },
+        Object {
+          "index": 5,
+          "isExclusive": false,
+          "isSale": false,
+          "price": "$30.27",
+          "productImage": "product-6.jpg",
+          "productName": "Long Sleeve Skivvy Top",
+          "size": Array [
+            "XS",
+            "S",
+            "M",
+          ],
+        },
+        Object {
+          "index": 6,
+          "isExclusive": false,
+          "isSale": true,
+          "price": "$24.26",
+          "productImage": "product-7.jpg",
+          "productName": "Puffer Vest with Hood",
+          "size": Array [
+            "M",
+            "L",
+            "XL",
+          ],
+        },
+        Object {
+          "index": 7,
+          "isExclusive": true,
+          "isSale": false,
+          "price": "$17.73",
+          "productImage": "product-8.jpg",
+          "productName": "Funnel Neck Swing Top",
+          "size": Array [
+            "XS",
+            "S",
+            "XL",
+          ],
+        },
+      ]
+    }
+    title="Women's Tops"
+  />
+</Fragment>
+`;

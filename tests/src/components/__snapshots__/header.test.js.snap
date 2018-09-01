@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component - Header Renders 1`] = `
+<Styled(header)>
+  <h1>
+    Test title
+  </h1>
+</Styled(header)>
+`;
+
+exports[`Component - Header Styled Component Renders 1`] = `
+<header
+  className="css-1nyj0ij"
+  title="Test title"
+/>
+`;
